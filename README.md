@@ -1,5 +1,6 @@
 # ValidBarcodes
 Checks the last number which is check digit is correct or not
+</br>
 Input can be of any forms removes everything except digits (but not preppended extra zeros) 
 Source(short code for Damm,Verhoeff using Codegolf and Group theory)
 EPA13(weighting of elements and mod 10 based so if 2-digits are jumbled say ab becomes ba using 31 system)
